@@ -4,6 +4,7 @@ from functions import *
 from roofBuilder import *
 
 class shop:
+    
     def __init__(self,level,start_x,start_y,start_z,end_x,,end_z,direction):
         self.level=level
         self.s_x=start_x
